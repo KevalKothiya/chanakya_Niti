@@ -81,8 +81,8 @@ making the app inclusive and accessible to a wider audience.
 https://github.com/KevalKothiya/media_booster/assets/131429045/e12f396b-af38-401d-92be-79a60ce3dffc
 
 
-<img align="left" src="https://github.com/KevalKothiya/chanakya_Niti/assets/131429045/a12dfcef-d3af-42e9-ace1-e905b26a9173" width="220px">
 <img align="left" src="https://github.com/KevalKothiya/chanakya_Niti/assets/131429045/4aa12626-019a-4a8f-a68b-d94682aab3da" width="220px">
+<img align="left" src="https://github.com/KevalKothiya/chanakya_Niti/assets/131429045/a12dfcef-d3af-42e9-ace1-e905b26a9173" width="220px">
 <img src="https://github.com/KevalKothiya/chanakya_Niti/assets/131429045/230e50a7-e435-4212-b31a-716b5236dd99" width="220px">
 
 <img align="left" src="https://github.com/KevalKothiya/chanakya_Niti/assets/131429045/e7b0e0d4-d346-4e91-91ed-c310ff633de5" width="220px">
