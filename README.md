@@ -78,7 +78,10 @@ making the app inclusive and accessible to a wider audience.
 ## Project OutPut :
 
 
-https://github.com/KevalKothiya/media_booster/assets/131429045/e12f396b-af38-401d-92be-79a60ce3dffc
+
+https://github.com/KevalKothiya/chanakya_Niti/assets/131429045/8acb0aef-7f3d-4e4c-ba66-08533b5f7f54
+
+
 
 
 <img align="left" src="https://github.com/KevalKothiya/chanakya_Niti/assets/131429045/4aa12626-019a-4a8f-a68b-d94682aab3da" width="220px">
