@@ -1,4 +1,4 @@
- Chanakya Niti
+# Chanakya Niti
 
 ## Project Description:
 
