@@ -90,6 +90,5 @@ https://github.com/KevalKothiya/chanakya_Niti/assets/131429045/8acb0aef-7f3d-4e4
 
 <img align="left" src="https://github.com/KevalKothiya/chanakya_Niti/assets/131429045/e7b0e0d4-d346-4e91-91ed-c310ff633de5" width="220px">
 <img align="left" src="https://github.com/KevalKothiya/chanakya_Niti/assets/131429045/5af96525-6481-4ae1-9edd-c563440973b0" width="220px">
-<img src="https://github.com/KevalKothiya/chanakya_Niti/assets/131429045/2861543a-fbbe-48f0-ac8f-c3d286e24db9" width="220px">
 
 
